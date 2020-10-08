@@ -17,4 +17,4 @@ let pizzaReducer = (state = initialState, action) => {
     }
 };
 
-export default pizzaReducer;
+export {pizzaReducer};
